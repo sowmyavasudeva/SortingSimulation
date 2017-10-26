@@ -1,0 +1,9 @@
+1. Download JFree Chart from this link - https://sourceforge.net/projects/jfreechart/. In the downloaded zip file, use jfree-1.0.19.jar and jcommon-1.-.23.jar under lib directory as external dependencies in the project.
+2. Download the gson library required for running the project from this link - https://repo1.maven.org/maven2/com/google/code/gson/gson/2.6.2/. Make sure you click on gson-2.6.2.jar tow download. Later select gson-2.6.2.jar file as external dependencies in the project.
+3. Download Apache commons lang jar from this link - https://commons.apache.org/proper/commons-lang/download_lang.cgi. From the downloaded zip or tar file, select the commons-lang3-3.6.jar file as external dependencies in the project.
+4. Download Apache Commons Codec jar from this link - https://commons.apache.org/proper/commons-codec/download_codec.cgi. From the downloaded zip or tar file, select the commons-codec-1.11.jar file as external dependencies in the project.
+5. Download Apache Commons Math jar from this link - http://commons.apache.org/proper/commons-math/download_math.cgi. From the downloaded zip or tar file, select the commons-math3-3.6.1.jar file as external dependencies in the project.
+6. Download SuperCsv jar library to read the real data from csv files. You can download it from this link - https://github.com/super-csv/super-csv/releases. From the downloaded zip or tar file, select the super-csv-2.4.0.jar file as external dependencies in the project. 
+7. Finally, run the main method in the Evaluation.java class to see the graphs for all the datasets.
+
+Note - We have also submitted all the jars as part of the submitted project under externalLibrariesToAdd folder. Instead of going through the mentioned links above, you can use these jars directly and add it as library external dependencies in the project.
